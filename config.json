@@ -1,0 +1,13 @@
+{
+  "apps": [
+    "ms-teams:",
+    "%LOCALAPPDATA%/Programs/Trae/Trae.exe"
+  ],
+  "sensitivity": 12.0,
+  "events": 1,
+  "min_gap": 0.12,
+  "max_gap": 0.8,
+  "delay_between_apps": 0.5,
+  "exit_after_launch": true,
+  "max_listen_minutes": 0
+}
